@@ -1,1 +1,1 @@
-<h1 text-align="center">Try Terraria!<h1>
+<h1 align="center">Try Terraria!<h1>
