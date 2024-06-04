@@ -1,0 +1,35 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: gray;
+}
+
+p {
+    text-align: center;
+}
+
+.love {
+    color: red;
+}
+
+.terraria {
+    color: green;
+}
+
+.link {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+.hello-world {
+    text-align: center;
+    
+}
+
+.world {
+    color: yellow;
+}
